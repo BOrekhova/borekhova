@@ -6,4 +6,4 @@ learning python
 - 🌱 I’m currently learning python and c++
 - 📫 How to reach me: barbaraorekhova@gmail.com
 
-🐱‍🐉🐸🐲🐬🐳🐟🐋✨👑💎💍🎓⚡🤍❤🧡💛💚💙❤🖤🤎🤍💕💗💤❗🆒
+
