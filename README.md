@@ -1,5 +1,5 @@
 ✨hi there✨
 
-- 🐬 I’m currently working on my english pronunciation
-- 🐳 I’m learning python and c++
-- 🐟 How to reach me: barbaraorekhova@gmail.com
+- 🐬 currently working on my english pronunciation
+- 🐳 learning python and c++, maybe java and html
+- 🐟 how to reach me: barbaraorekhova@gmail.com
