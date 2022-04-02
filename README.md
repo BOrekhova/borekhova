@@ -1,5 +1,5 @@
 ✨hello, world✨
 
 - 🐬 currently working on my english pronunciation
-- 🐳 learning python and c++, maybe javascript and html
+- 🐳 teen programmer
 - 🐟 how to reach me: barbaraorekhova@gmail.com or @oebarbie (in tg)
